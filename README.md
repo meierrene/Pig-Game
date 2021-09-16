@@ -6,6 +6,7 @@ The player should archieve 100 points to win the game following the sum of rolle
 <br>
 Instructions:<br>
 <code>NEW GAME</code> Starts a new game match;<br>
-<code>ROLL DICE</code> <br>
-<code>HOLD</code><br>
-<code>RULES</code>
+<code>ROLL DICE</code> Roll the dice providing a sorted number between 1 and 6; (REMEMBER: avoid the number <code>1</code>)<br>
+<code>HOLD</code> Stores the current point and swap turn to another player<br>
+<code>RULES</code> Toggle a read-me rule.<br><br>
+Have Fun! 🎲🎉😂😂😂😂
